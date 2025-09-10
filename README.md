@@ -90,4 +90,8 @@ chmod +x build_xcframework.sh
 ./build_xcframework.sh
 ```
 
+Sau khi có thư mục : HuyQRScanner.xcframework thì add vào trong xcode <br>
+<img width="1144" height="512" alt="Screenshot 2025-09-10 at 12 12 22" src="https://github.com/user-attachments/assets/72746639-29ab-46e6-857a-fc31f069618c" /> <br>
+
+<img width="1086" height="647" alt="image" src="https://github.com/user-attachments/assets/1dbae937-ca04-44ec-b1dd-f6acbb3b02bf" />
 
