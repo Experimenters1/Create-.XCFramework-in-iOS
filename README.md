@@ -6,6 +6,8 @@
 ### 1. Chuẩn bị Project
 **Ví dụ nhự HuyQRScanner** <br>
 
+Xong cd vào project bắt đầu chạy lệnh 
+
 ### 2. Tạo XCFramework bằng Xcode Command Line
 Mở Terminal và navigate đến thư mục project của bạn, sau đó chạy các lệnh sau: <br>
 Bước 1: Build cho iOS Device <br>
