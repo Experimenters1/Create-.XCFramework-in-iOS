@@ -1,0 +1,6 @@
+framework module HuyQRScanner {
+  umbrella header "HuyQRScanner.h"
+  export *
+
+  module * { export * }
+}
